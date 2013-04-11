@@ -1,0 +1,1 @@
+{"ts":1365670989401,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<head>\n  <title>d3meteor</title>\n</head>\n\n<body>\n  {{> hello}}\n</body>\n\n<template name=\"hello\">\n  <h1>Hello World!</h1>\n  {{greeting}}\n  <input type=\"button\" value=\"Click\" />\n</template>\n"]],"start1":0,"start2":0,"length1":0,"length2":187}]],"length":187}
